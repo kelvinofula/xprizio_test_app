@@ -24,7 +24,7 @@ Xprizio Test App is a Flutter application built as a demo project that:
 
 ## 📸 Screenshots
 
-> *Include screenshots of your splash screen, book list, and book detail view here.*
+
 
 ---
 
